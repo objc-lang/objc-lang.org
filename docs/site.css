@@ -1,0 +1,64 @@
+html {
+    font-size: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Avenir Next", sans;
+}
+h1 {
+    font-size: 3.5rem;
+}
+h2 {
+    font-size: 3rem;
+}
+h3 {
+    font-size: 2.5rem;
+}
+h4 {
+    font-size: 2rem;
+}
+h5 {
+    font-size: 1.5rem
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 3.0rem;
+}
+
+body {
+    font-family: STIXGeneral, "DejaVu Serif", serif;
+    font-size: 1rem;
+    line-height: 1.2;
+}
+
+pre, p, h3 {
+    margin: 1.9rem 0px 1.9rem;
+}
+
+article, .container {
+    width: 800px;
+    margin: auto;
+}
+
+pre, code {
+    background-color: #eeeeff;
+    line-height: normal;
+    overflow: auto;
+}
+
+p {
+    text-align: justify;
+}
+
+@media only screen and (max-device-width: 480px) {
+    html {
+        font-size: 50%;
+    }
+    article, .container {
+        width: 90%;
+    }
+    p {
+        text-align: left;
+    }
+}
