@@ -1,0 +1,8 @@
+#+TITLE: The Objective-C Language Homepage
+#+DATE: 2021-07-11
+#+STARTUP: showall
+
+** Objective-C was Homeless
+
+Objective-C had now home on the Web. Documentation is sporadic or
+missing. Since I like Objective-C, I'm fixing this oversight.
