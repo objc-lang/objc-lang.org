@@ -51,6 +51,18 @@ p {
     text-align: justify;
 }
 
+.title {
+    margin-bottom: 0;
+}
+
+.lead {
+    font-family: "Avenir Next", sans;
+    font-size: 1.25rem;
+    font-weight: 400;
+    color: gray;
+    margin-top: 1rem;
+}
+
 @media only screen and (max-device-width: 480px) {
     html {
         font-size: 50%;
